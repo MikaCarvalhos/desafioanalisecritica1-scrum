@@ -1,4 +1,4 @@
-# desafio-analise-critica1-scrum
+# desafio-analise-critica-scrum
 
 Neste repositório estou entregando uma análise critica sobre uma case de sucesso com a utilização do Scrum.
 
